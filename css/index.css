@@ -1,0 +1,28 @@
+.demo-wrapper #region-1, .demo-wrapper #region-4  {
+  width: 100%;
+  height: 250px;
+}
+.demo-wrapper #region-4 {
+  height: 400px;
+}
+.demo-wrapper #region-2, .demo-wrapper #region-3 {
+  width: 50%;
+  height: 700px;
+  margin-bottom: 25px;
+}
+article {
+  -webkit-flow-into: article;
+  flow-into: article;
+}
+.demo-wrapper aside {
+  -webkit-flow-into: aside;
+  flow-into: aside;
+}
+#region-1, #region-2, #region-4 {
+  -webkit-flow-from: article;
+  flow-from: article;
+}
+#region-3 {
+  -webkit-flow-from: aside;
+  flow-from: aside;
+}
