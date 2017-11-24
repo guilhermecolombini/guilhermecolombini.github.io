@@ -26,3 +26,20 @@ article {
   -webkit-flow-from: aside;
   flow-from: aside;
 }
+body{
+  background-color: blue;
+}
+
+.regioncf{
+  background-color: white;
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
+  border-radius: 15px;
+  text-align: justify;
+}
+
+.text{
+  margin-left: 5%;
+  margin-right: 5%;
+}
