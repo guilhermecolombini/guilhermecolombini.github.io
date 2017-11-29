@@ -32,6 +32,18 @@
   margin-left: 40px;
 }
 
+.color-text{
+  color: #2B4570;
+}
+
+.color-nav{
+  background-color: #2B4570;
+}
+
+.color-link{
+  color: #2B4570;
+}
+
 /*@media (min-width: 576px) {
   .app-image{
     width: 100%;
