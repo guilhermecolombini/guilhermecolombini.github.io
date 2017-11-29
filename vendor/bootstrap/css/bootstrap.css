@@ -902,6 +902,9 @@ pre code {
 }
 
 @media (min-width: 576px) {
+  .app-image{
+    height: 5px;
+  }
   .col-sm {
     -ms-flex-preferred-size: 0;
         flex-basis: 0;
@@ -1230,6 +1233,9 @@ pre code {
 }
 
 @media (min-width: 992px) {
+  .app-image{
+    height: 5px;
+  }
   .col-lg {
     -ms-flex-preferred-size: 0;
         flex-basis: 0;
@@ -1394,6 +1400,9 @@ pre code {
 }
 
 @media (min-width: 1200px) {
+  .app-image{
+    height: 5px;
+  }
   .col-xl {
     -ms-flex-preferred-size: 0;
         flex-basis: 0;
