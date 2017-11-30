@@ -44,6 +44,14 @@
   color: #2B4570;
 }
 
+.color-link:hover{
+  color: #000000;
+}
+
+.icons-hover:hover{
+  color: #2B4570;
+}
+
 /*@media (min-width: 576px) {
   .app-image{
     width: 100%;
